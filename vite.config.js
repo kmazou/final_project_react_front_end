@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/shoppingreact",
+  base: "/https://kmazou.github.io/final_project_react_front_end",
   plugins: [react()],
 })
